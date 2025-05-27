@@ -1,0 +1,20 @@
+OCT-CANCER v3.0 – Lite Edition  
+Copyright (C) 2025  
+Author: Sanal Ednyashev  
+ORCID: 0009-0005-9802-379X
+
+This work is published for academic reference purposes only.  
+All rights to the full version of OCT-CANCER v3.0 are reserved by the author.
+
+You may:
+- Read and cite this Lite Edition
+- Share the link to this repository
+
+You may NOT:
+- Reproduce, copy, or modify any content for commercial purposes
+- Use any part of this work in derivative products or AI systems
+- Claim authorship or republish under any form
+
+To access the full version or request a license, contact the author via ORCID or DOI publisher record.
+
+This work is protected under international intellectual property law.
