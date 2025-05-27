@@ -1,0 +1,20 @@
+OCT-CANCER v3.0 — Lite Edition (Abstract)
+
+This project presents a formal, conflict-based approach to cancer treatment using logical expressibility, semantic alignment, and structure-to-predicate resolution.
+
+The Lite Edition includes:
+- Core definition of the μ(S, Q) metric
+- Δμ-based therapeutic planning principle
+- A legal and semantic protection layer (license + ORCID)
+
+This repository intentionally omits:
+- Full logic engine implementations
+- Patient-specific AI planner
+- EF-game formulations and model-theoretic extensions
+
+To access the complete version or request collaboration, refer to the DOI record:
+https://doi.org/...
+
+Author: Sanal Ednyashev
+ORCID: 0009-0005-9802-379X
+Year: 2025
