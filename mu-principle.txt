@@ -1,0 +1,13 @@
+OCT-CANCER v3.0 — μ-Principle
+
+Let:
+- S ∈ StructSpace: patient's biological system
+- Q ∈ PredicateSpace: normative logic constraint
+- φ(Q): logical encoding of Q in FOL, MSO, or FPC
+- μ(S, Q): semantic distance between S and Q
+
+Definition:
+    μ(S, Q) = inf_{φ ∈ Logic(Q)} d(S, φ(Q))
+
+Where:
+- d is a logic-consistent distance over violations
