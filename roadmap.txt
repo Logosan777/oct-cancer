@@ -1,0 +1,23 @@
+OCT-CANCER v3.0 — Roadmap (Lite Edition)
+
+Included in this repository:
+- Public summary of the theory (abstract.txt)
+- Core μ/Δμ/τ definitions (mu-principle.txt)
+- Author declaration and licensing terms (LICENSE.txt)
+- Overview documentation (README.md)
+
+Not included (intentionally):
+- Complete formal derivations and EF-game constructions
+- Symbolic logic runtime engine
+- AI-based Δμ-optimizer
+- Clinical validation benchmarks
+- Code for μ-evaluation or transformation simulation
+
+To access the full version:
+- Refer to the DOI: https://doi.org/...
+- ORCID: 0009-0005-9802-379X
+- Contact author for collaboration/licensing
+
+Status:
+- This is an official, legally protected partial release.
+- No public updates will be added here beyond current scope.
